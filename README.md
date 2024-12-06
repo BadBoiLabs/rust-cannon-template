@@ -132,4 +132,4 @@ Project Link: [https://github.com/BadBoiLabs/Cannon-rs](https://github.com/BadBo
 [issues-shield]: https://img.shields.io/github/issues/BadBoiLabs/Cannon-rs.svg?style=for-the-badge
 [issues-url]: https://github.com/BadBoiLabs/Cannon-rs/issues
 [license-shield]: https://img.shields.io/github/license/BadBoiLabs/Cannon-rs.svg?style=for-the-badge
-[license-url]: https://github.com/BadBoiLabs/Cannon-rs/blob/master/LICENSE.txt
+[license-url]: https://github.com/BadBoiLabs/Cannon-rs/blob/main/LICENSE
